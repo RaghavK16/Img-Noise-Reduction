@@ -8,9 +8,11 @@ I imported the famously-used MNIST dataset from keras, and added noise to the im
 
 ## Libraries used
 
-* I used Keras to build the autoencoder.
+* I used Keras to build the autoencoder. Keras is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.
 
-* Keras is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.
+* Matplotlib.pyplot for displaying visualizations in project. It's an object-oriented plotting library.
+
+* Numpy for mathematical operations on the data.
 
 ## Contribution
 
