@@ -1,5 +1,8 @@
 # Img-Noise-Reduction
 
+![Noise_Red](https://github.com/raghavk16/Img-Noise-Reduction/blob/master/Denoise.png?raw=true)
+
+
 Using Autoencoders from **Tensorflow's Keras** library, to **de-noise** the sample images, with a high accuracy.
 
 ## Dataset 
